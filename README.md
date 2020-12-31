@@ -4,7 +4,7 @@
 
 # 1. What is this project?
 
-This project is visualization tool for a popular unsupervised machine learning algorithm, K-Means clustering. This is a submission to the AlgoExpert SWE Project Contest Summer-Fall 2020.
+This project is visualization tool for a popular unsupervised machine learning algorithm, K-Means clustering.
 
 This project uses Spotify song data to group songs into clusters by similarity. You can select a song and visualize distributions of each parameter in up to 3 dimensions of the cluster it belongs to as well as other songs.
 
